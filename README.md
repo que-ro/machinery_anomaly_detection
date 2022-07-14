@@ -1,4 +1,4 @@
-# machinery_anomaly_detection
+#challenge machinery_anomaly_detection
 Project of a datascience training
 
 ## DCASE 2022 TASK 2
